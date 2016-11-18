@@ -1,2 +1,2 @@
-glype
+glype v1.2
 =====
